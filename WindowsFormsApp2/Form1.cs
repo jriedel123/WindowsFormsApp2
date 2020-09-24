@@ -23,5 +23,11 @@ namespace WindowsFormsApp2
             MessageBox.Show("Ahoj");
 
         }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            //Jana Kolářová
+            MessageBox.Show("Tuto obsluhu zpracovává KOA");
+        }
     }
 }
